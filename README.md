@@ -1,4 +1,4 @@
-# TCP File Transfer over Linux Network Namespaces
+Taron Suqiasyan                # TCP File Transfer over Linux Network Namespaces
 
 A sender (client) and a receiver (server) written in C with the POSIX socket API.
 They run in two isolated Linux network namespaces connected by a virtual
