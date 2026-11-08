@@ -1,0 +1,5 @@
+Hello from the sender namespace!
+This file travels over a TCP connection through a veth pair
+between two Linux network namespaces.
+Line 4: the quick brown fox jumps over the lazy dog.
+Line 5: end of file.
